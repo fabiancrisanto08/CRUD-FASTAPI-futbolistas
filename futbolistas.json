@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lionel Messi",
+    "equipo": "Inter Miami",
+    "posicion": "Delantero"
+  },
+  {
+    "id": 2,
+    "nombre": "Kylian Mbappe",
+    "equipo": "Real Madrid",
+    "posicion": "Delantero"
+  },
+  {
+    "id": 3,
+    "nombre": "Lamine Yamal",
+    "equipo": "FC Barcelona",
+    "posicion": "Extremo derecho"
+  },
+  {
+    "id": 4,
+    "nombre": "Jude Bellingham",
+    "equipo": "Real Madrid",
+    "posicion": "Centrocampista"
+  },
+  {
+    "id": 5,
+    "nombre": "Erling Haaland",
+    "equipo": "Manchester City",
+    "posicion": "Delantero centro"
+  },
+  {
+    "id": 6,
+    "nombre": "Virgil van Dijk",
+    "equipo": "Liverpool",
+    "posicion": "Defensa central"
+  },
+  {
+    "id": 7,
+    "nombre": "Alisson Becker",
+    "equipo": "Liverpool",
+    "posicion": "Portero"
+  }
+]
